@@ -1,0 +1,21 @@
+{
+    "navbar": {
+      "home": "Asosiy",
+      "products": "Mahsulotlar",
+      "users": "Foydalanuvchilar",
+      "partners": "Hamkorlar"
+    },
+    "home": {
+      "welcome": "Bizning ilovamizga xush kelibsiz!"
+    },
+    "products": {
+      "title": "Bizning mahsulotlar"
+    },
+    "users": {
+      "title": "Bizning foydalanuvchilar"
+    },
+    "partners": {
+      "title": "Bizning hamkorlar"
+    }
+  }
+  

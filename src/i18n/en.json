@@ -1,0 +1,21 @@
+{
+    "navbar": {
+      "home": "Home",
+      "products": "Products",
+      "users": "Users",
+      "partners": "Partners"
+    },
+    "home": {
+      "welcome": "Welcome to our application!"
+    },
+    "products": {
+      "title": "Our Products"
+    },
+    "users": {
+      "title": "Our Users"
+    },
+    "partners": {
+      "title": "Our Partners"
+    }
+  }
+  
