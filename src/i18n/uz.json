@@ -1,21 +1,18 @@
 {
-    "navbar": {
-      "home": "Asosiy",
-      "products": "Mahsulotlar",
-      "users": "Foydalanuvchilar",
-      "partners": "Hamkorlar"
-    },
-    "home": {
-      "welcome": "Bizning ilovamizga xush kelibsiz!"
-    },
-    "products": {
-      "title": "Bizning mahsulotlar"
-    },
-    "users": {
-      "title": "Bizning foydalanuvchilar"
-    },
-    "partners": {
-      "title": "Bizning hamkorlar"
-    }
+  "home": {
+    "title": "Bizning saytga xush kelibsiz",
+    "description": "Bu bosh sahifa"
+  },
+  "products": {
+    "title": "Mahsulotlar",
+    "description": "Bizning mahsulotlarimizni shu yerda topishingiz mumkin"
+  },
+  "users": {
+    "title": "Foydalanuvchilar",
+    "description": "Bu yerda foydalanuvchilar ro'yxatini ko'rishingiz mumkin"
+  },
+  "partners": {
+    "title": "Hamkorlar",
+    "description": "Bizning hamkorlarimiz"
   }
-  
+}

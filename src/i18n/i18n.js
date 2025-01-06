@@ -10,9 +10,11 @@ i18n.use(initReactI18next).init({
     ru: { translation: ru },
     uz: { translation: uz },
   },
-  lng: 'en', // Default language
+  lng: 'en', // Язык по умолчанию
   fallbackLng: 'en',
-  interpolation: { escapeValue: false },
+  interpolation: {
+    escapeValue: false,
+  },
 });
 
 export default i18n;
